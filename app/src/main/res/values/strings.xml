@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Kloia Android Demo APP</string>
+    <string name="login">Login</string>
+    <string name="username_kloia">username: kloia</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="passwordLabel">password: kloia1234</string>
+    <string name="loginSigninText">Not yet registered? SignUp Now</string>
 </resources>
