@@ -87,6 +87,7 @@
                 android:id="@+id/loginButton"
                 android:text="@string/login"
                 android:textSize="18sp"
+                android:textColor="@color/white"
                 android:layout_marginTop="30dp"
                 android:backgroundTint="@color/blue"
                 app:cornerRadius = "20dp"/>

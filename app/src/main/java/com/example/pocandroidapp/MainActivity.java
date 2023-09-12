@@ -22,9 +22,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if (username.getText().toString().equals("kloia") && password.getText().toString().equals("kloia1234")) {
-                    Toast.makeText(MainActivity.this, "Login Successful!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Login Successful!", Toast.LENGTH_LONG).show();
                 } else {
-                    Toast.makeText(MainActivity.this, "Login Failed!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Login Failed!", Toast.LENGTH_LONG).show();
                 }
             }
         });
